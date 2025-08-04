@@ -1,0 +1,5 @@
+numpy==1.26.4
+pandas==2.2.3
+sklearn==1.5.1
+category_encoders==2.6.3
+imblearn==0.12.3
